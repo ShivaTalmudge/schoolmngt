@@ -1,0 +1,2 @@
+# schoolmngt
+school software
