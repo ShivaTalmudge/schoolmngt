@@ -1,5 +1,5 @@
-print("Enter 2 Numbers")
+print 'Enter 2 numbers'
 a=float(input())
 b=float(input())
 c=a-b
-print('sub'+str(c))
+print('sub='+str(c))
